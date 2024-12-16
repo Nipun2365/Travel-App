@@ -1,0 +1,46 @@
+name: travel_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+ 
+  intl_phone_field: ^3.1.0 
+  cupertino_icons: ^1.0.6
+  carousel_slider: ^4.2.1
+  
+  image_picker: ^1.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/home1.png
+    - images/profile.png
+    - images/place1.jpeg
+    - images/place2.jpeg
+    - images/place3.jpeg
+    - images/airplane.png
+    - images/place4.jpeg
+    - images/place5.jpeg
+    - images/place6.jpeg
+    - images/place7.jpeg
+    - images/place8.jpeg
+    - images/place9.jpeg
+    - images/place10.jpeg
+    - images/place11.jpeg
+    - images/place12.jpeg
+    - images/place13.jpeg
+    - images/place14.jpeg
+    - images/place15.jpeg
+    - images/place17.jpeg
+    - images/place18.jpeg
